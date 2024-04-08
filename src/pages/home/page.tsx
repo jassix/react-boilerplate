@@ -7,7 +7,7 @@ export const HomePage = () => {
       page <Link to={Router.Index()}>Hello</Link>
       <button
         onClick={() => {
-          console.log('test')
+          throw new Error('sentry hi')
         }}
       >
         Break the world

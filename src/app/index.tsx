@@ -6,6 +6,8 @@ import { sentryInit } from '~/shared/lib/sentry'
 
 import { Core } from './core'
 
+sentryInit()
+
 const root = document.querySelector('#app')!
 
 ReactDOM.createRoot(root).render(
@@ -15,4 +17,3 @@ ReactDOM.createRoot(root).render(
 )
 
 appStarted()
-sentryInit()

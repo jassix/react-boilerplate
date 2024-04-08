@@ -26,3 +26,15 @@ dist-ssr
 # Lock files
 bun.lockb
 *storybook.log
+
+# Envs
+.env
+.env.development
+.env.local
+.env.production
+
+# Sentry Config File
+.env.sentry-build-plugin
+
+# Build things
+.swc

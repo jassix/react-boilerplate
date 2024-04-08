@@ -1,11 +1,8 @@
 import { useLinkProps } from '@swan-io/chicane'
-import { cva } from 'class-variance-authority'
 import clsx from 'clsx'
 import { AnchorHTMLAttributes, forwardRef, PropsWithChildren } from 'react'
 
 import { link } from './styles'
-
-const linkVariance = cva()
 
 export interface LinkProps
   extends PropsWithChildren,
