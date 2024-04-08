@@ -7,7 +7,7 @@ This is a boilerplate/template project for building React.js applications, utili
 - **Effector**: State management library for React applications.
 - **Farfetched**: Lightweight and composable data fetching library.
 - **Cypress**: End-to-end testing framework.
-- **Bun**: A CSS-in-JS library for styling React applications.
+- **Bun**: Fast JS runtime.
 - **Vite**: Fast, opinionated web dev build tool that serves your code via native ES Module imports during development.
 - **Storybook**: UI component explorer for frontend developers.
 - **React Testing Library** and **Jest**: For unit testing React components.
