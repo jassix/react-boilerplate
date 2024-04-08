@@ -10,6 +10,7 @@
     "lint": "eslint \"src/**/*.{js,mjs,cjs,ts,mts,jsx,tsx}\"",
     "preview": "bunx --bun vite preview",
     "test": "jest",
+    "test:e2e": "bunx cypress run",
     "lint:fix": "eslint \"src/**/*.{js,mjs,cjs,ts,mts,jsx,tsx}\" --fix",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build"
