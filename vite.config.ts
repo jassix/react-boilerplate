@@ -8,7 +8,8 @@ export default defineConfig({
     react({
       jsxImportSource: "@emotion/react",
       plugins: [
-        ["@swc/plugin-emotion", {}]
+        ["@swc/plugin-emotion", {}],
+        ["effector-swc-plugin", {}]
       ],
     }),
     
