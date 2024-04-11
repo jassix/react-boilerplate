@@ -1,3 +1,6 @@
+![GitHub License](https://img.shields.io/github/license/jassix/react-boilerplate)
+![GitHub Repo stars](https://img.shields.io/github/stars/jassix/react-boilerplate)
+
 # React.js Boilerplate
 
 This is a boilerplate/template project for building React.js applications, utilizing several modern technologies and libraries including Effector for state management, Farfetched for data fetching, Cypress for end-to-end testing, Bun as runtime, Vite for fast development environment, Storybook for component documentation and testing, react-testing-library and Jest for unit testing, and Emotion for styling.
